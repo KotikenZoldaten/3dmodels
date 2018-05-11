@@ -1,0 +1,695 @@
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 0,0,4,4,4,16,texture = "opencomputers:White", tint = 0xaaaaaa },
+    { 4,0,0,16,4,4,texture = "opencomputers:White", tint = 0xaaaaaa },
+    { 4,0,4,16,4,16,texture = "opencomputers:White", tint = 0x555555 },
+    { 14,4,14,16,16,16,texture = "opencomputers:White", tint = 0xbbbbbb },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 0,0,0,4,4,12,texture = "opencomputers:White", tint = 0xaaaaaa },
+    { 4,0,0,16,4,12,texture = "opencomputers:White", tint = 0x555555 },
+    { 4,0,12,16,4,16,texture = "opencomputers:White", tint = 0xaaaaaa },
+    { 14,4,0,16,16,2,texture = "opencomputers:White", tint = 0xbbbbbb },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 14,0,14,16,16,16,texture = "opencomputers:White", tint = 0xbbbbbb },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 14,0,0,16,16,2,texture = "opencomputers:White", tint = 0xbbbbbb },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 14,0,14,16,16,16,texture = "opencomputers:White", tint = 0xbbbbbb },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 14,0,0,16,16,2,texture = "opencomputers:White", tint = 0xbbbbbb },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 14,0,14,16,16,16,texture = "opencomputers:White", tint = 0xbbbbbb },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 14,0,0,16,16,2,texture = "opencomputers:White", tint = 0xbbbbbb },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 14,0,14,16,16,16,texture = "opencomputers:White", tint = 0xbbbbbb },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 14,0,0,16,16,2,texture = "opencomputers:White", tint = 0xbbbbbb },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 14,0,14,16,16,16,texture = "opencomputers:White", tint = 0xbbbbbb },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 14,0,0,16,16,2,texture = "opencomputers:White", tint = 0xbbbbbb },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 14,0,14,16,16,16,texture = "opencomputers:White", tint = 0xbbbbbb },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 14,0,0,16,16,2,texture = "opencomputers:White", tint = 0xbbbbbb },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 14,0,14,16,14,16,texture = "opencomputers:White", tint = 0xbbbbbb },
+    { 12,10,14,16,14,16,texture = "opencomputers:White", tint = 0xbbbbbb },
+    { 14,10,12,16,14,16,texture = "opencomputers:White", tint = 0xbbbbbb },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 14,0,0,16,14,2,texture = "opencomputers:White", tint = 0xbbbbbb },
+    { 12,10,0,16,14,2,texture = "opencomputers:White", tint = 0xbbbbbb },
+    { 14,10,2,16,14,4,texture = "opencomputers:White", tint = 0xbbbbbb },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 0,0,0,12,4,4,texture = "opencomputers:White", tint = 0xaaaaaa },
+    { 0,0,4,12,4,16,texture = "opencomputers:White", tint = 0x555555 },
+    { 12,0,4,16,4,16,texture = "opencomputers:White", tint = 0xaaaaaa },
+    { 0,4,14,2,16,16,texture = "opencomputers:White", tint = 0xbbbbbb },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 0,0,0,12,4,12,texture = "opencomputers:White", tint = 0x555555 },
+    { 0,0,12,12,4,16,texture = "opencomputers:White", tint = 0xaaaaaa },
+    { 12,0,0,16,4,12,texture = "opencomputers:White", tint = 0xaaaaaa },
+    { 0,4,0,2,16,2,texture = "opencomputers:White", tint = 0xbbbbbb },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 0,0,14,2,16,16,texture = "opencomputers:White", tint = 0xbbbbbb },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 0,0,0,2,16,2,texture = "opencomputers:White", tint = 0xbbbbbb },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 0,0,14,2,16,16,texture = "opencomputers:White", tint = 0xbbbbbb },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 0,0,0,2,16,2,texture = "opencomputers:White", tint = 0xbbbbbb },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 0,0,14,2,16,16,texture = "opencomputers:White", tint = 0xbbbbbb },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 0,0,0,2,16,2,texture = "opencomputers:White", tint = 0xbbbbbb },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 0,0,14,2,16,16,texture = "opencomputers:White", tint = 0xbbbbbb },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 0,0,0,2,16,2,texture = "opencomputers:White", tint = 0xbbbbbb },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 0,0,14,2,16,16,texture = "opencomputers:White", tint = 0xbbbbbb },
+    { 8,2,14,12,7,16,texture = "opencomputers:White", tint = 0xee0000 },
+    { 2,4,14,7,16,16,texture = "opencomputers:White", tint = 0xee0000 },
+    { 7,4,14,12,7,16,texture = "opencomputers:White", tint = 0xee0000 },
+    { 7,7,14,8,13,16,texture = "opencomputers:White", tint = 0xee0000 },
+    { 8,7,14,9,11,16,texture = "opencomputers:White", tint = 0xee0000 },
+    { 9,7,14,11,8,16,texture = "opencomputers:White", tint = 0xee0000 },
+    { 11,7,14,12,16,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 9,8,14,10,9,16,texture = "opencomputers:White", tint = 0xee0000 },
+    { 10,8,14,12,16,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 9,9,14,12,16,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 8,11,14,12,16,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 7,13,14,12,16,16,texture = "opencomputers:White", tint = 0xeeeeee },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 0,0,0,2,16,2,texture = "opencomputers:White", tint = 0xbbbbbb },
+    { 12,0,0,16,5,4,texture = "opencomputers:White", tint = 0xee0000 },
+    { 8,2,0,16,5,2,texture = "opencomputers:White", tint = 0xee0000 },
+    { 2,4,0,7,16,2,texture = "opencomputers:White", tint = 0xee0000 },
+    { 7,4,0,16,5,2,texture = "opencomputers:White", tint = 0xee0000 },
+    { 7,5,0,15,6,2,texture = "opencomputers:White", tint = 0xee0000 },
+    { 12,5,2,15,6,4,texture = "opencomputers:White", tint = 0xee0000 },
+    { 15,5,0,16,13,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 7,6,0,8,13,2,texture = "opencomputers:White", tint = 0xee0000 },
+    { 8,6,0,13,7,2,texture = "opencomputers:White", tint = 0xee0000 },
+    { 12,6,2,13,7,4,texture = "opencomputers:White", tint = 0xee0000 },
+    { 13,6,0,16,13,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 8,7,0,9,11,2,texture = "opencomputers:White", tint = 0xee0000 },
+    { 9,7,0,11,8,2,texture = "opencomputers:White", tint = 0xee0000 },
+    { 11,7,0,16,13,2,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 12,7,2,16,13,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 9,8,0,10,9,2,texture = "opencomputers:White", tint = 0xee0000 },
+    { 10,8,0,16,13,2,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 9,9,0,16,13,2,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 8,11,0,13,16,2,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 7,13,0,13,16,2,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 12,13,2,15,14,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 13,13,0,15,14,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 15,13,0,16,16,4,texture = "opencomputers:White", tint = 0x444444 },
+    { 12,14,2,14,15,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 13,14,0,14,15,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 14,14,0,16,16,4,texture = "opencomputers:White", tint = 0x444444 },
+    { 12,15,2,13,16,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 13,15,0,16,16,4,texture = "opencomputers:White", tint = 0x444444 },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 0,0,14,2,16,16,texture = "opencomputers:White", tint = 0xbbbbbb },
+    { 2,0,14,7,16,16,texture = "opencomputers:White", tint = 0xee0000 },
+    { 7,0,14,12,4,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 7,4,14,8,16,16,texture = "opencomputers:White", tint = 0xee0000 },
+    { 8,4,14,12,6,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 8,6,14,9,16,16,texture = "opencomputers:White", tint = 0xee0000 },
+    { 9,6,14,12,8,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 9,8,14,10,16,16,texture = "opencomputers:White", tint = 0xee0000 },
+    { 10,8,14,12,9,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 10,9,14,11,16,16,texture = "opencomputers:White", tint = 0xee0000 },
+    { 11,9,14,12,10,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 11,10,14,12,16,16,texture = "opencomputers:White", tint = 0xee0000 },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 0,0,0,2,16,2,texture = "opencomputers:White", tint = 0xbbbbbb },
+    { 2,0,0,7,16,2,texture = "opencomputers:White", tint = 0xee0000 },
+    { 7,0,0,12,4,2,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 12,0,0,15,2,4,texture = "opencomputers:White", tint = 0x444444 },
+    { 15,0,0,16,1,4,texture = "opencomputers:White", tint = 0x444444 },
+    { 15,1,0,16,4,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 12,2,0,14,10,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 14,2,0,16,4,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 7,4,0,8,16,2,texture = "opencomputers:White", tint = 0xee0000 },
+    { 8,4,0,14,6,2,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 14,4,0,15,5,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 15,4,0,16,7,4,texture = "opencomputers:White", tint = 0x444444 },
+    { 14,5,0,16,6,4,texture = "opencomputers:White", tint = 0x444444 },
+    { 8,6,0,9,16,2,texture = "opencomputers:White", tint = 0xee0000 },
+    { 9,6,0,15,8,2,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 14,6,2,15,11,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 15,7,0,16,12,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 9,8,0,10,16,2,texture = "opencomputers:White", tint = 0xee0000 },
+    { 10,8,0,16,9,2,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 10,9,0,11,16,2,texture = "opencomputers:White", tint = 0xee0000 },
+    { 11,9,0,16,10,2,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 11,10,0,13,16,2,texture = "opencomputers:White", tint = 0xee0000 },
+    { 12,10,2,13,16,4,texture = "opencomputers:White", tint = 0xee0000 },
+    { 13,10,0,16,11,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 13,11,0,15,16,4,texture = "opencomputers:White", tint = 0xee0000 },
+    { 15,12,0,16,16,4,texture = "opencomputers:White", tint = 0xee0000 },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 0,0,14,2,14,16,texture = "opencomputers:White", tint = 0xbbbbbb },
+    { 2,0,14,12,6,16,texture = "opencomputers:White", tint = 0xee0000 },
+    { 2,6,14,8,8,16,texture = "opencomputers:White", tint = 0xee0000 },
+    { 0,10,12,2,14,16,texture = "opencomputers:White", tint = 0xbbbbbb },
+    { 2,10,14,4,14,16,texture = "opencomputers:White", tint = 0xbbbbbb },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 0,0,0,2,14,2,texture = "opencomputers:White", tint = 0xbbbbbb },
+    { 2,0,0,16,4,2,texture = "opencomputers:White", tint = 0xee0000 },
+    { 12,0,2,16,4,4,texture = "opencomputers:White", tint = 0xee0000 },
+    { 2,4,0,8,8,2,texture = "opencomputers:White", tint = 0xee0000 },
+    { 8,4,0,12,6,2,texture = "opencomputers:White", tint = 0xee0000 },
+    { 0,10,2,2,14,4,texture = "opencomputers:White", tint = 0xbbbbbb },
+    { 2,10,0,4,14,2,texture = "opencomputers:White", tint = 0xbbbbbb },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 6,12,14,12,16,16,texture = "opencomputers:White", tint = 0xee0000 },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 12,10,0,16,16,4,texture = "opencomputers:White", tint = 0xee0000 },
+    { 6,12,0,16,16,2,texture = "opencomputers:White", tint = 0xee0000 },
+    { 2,14,0,16,16,2,texture = "opencomputers:White", tint = 0xee0000 },
+    { 2,14,2,6,16,4,texture = "opencomputers:White", tint = 0xee0000 },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 6,0,14,12,6,16,texture = "opencomputers:White", tint = 0xee0000 },
+    { 6,6,14,8,13,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 8,6,14,12,7,16,texture = "opencomputers:White", tint = 0xee0000 },
+    { 8,7,14,10,16,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 10,7,14,12,8,16,texture = "opencomputers:White", tint = 0xee0000 },
+    { 10,8,14,11,16,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 11,8,14,12,9,16,texture = "opencomputers:White", tint = 0xee0000 },
+    { 11,9,14,12,16,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 6,13,14,7,16,16,texture = "opencomputers:White", tint = 0x444444 },
+    { 7,13,14,12,14,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 7,14,14,8,15,16,texture = "opencomputers:White", tint = 0x444444 },
+    { 7,15,14,12,16,16,texture = "opencomputers:White", tint = 0xeeeeee },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 0,0,0,16,5,2,texture = "opencomputers:White", tint = 0xee0000 },
+    { 0,0,2,6,5,4,texture = "opencomputers:White", tint = 0xee0000 },
+    { 12,0,2,16,11,4,texture = "opencomputers:White", tint = 0xee0000 },
+    { 0,5,0,6,11,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 6,5,0,16,6,2,texture = "opencomputers:White", tint = 0xee0000 },
+    { 6,6,0,8,13,2,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 8,6,0,16,7,2,texture = "opencomputers:White", tint = 0xee0000 },
+    { 8,7,0,10,16,2,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 10,7,0,16,8,2,texture = "opencomputers:White", tint = 0xee0000 },
+    { 10,8,0,11,16,2,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 11,8,0,16,9,2,texture = "opencomputers:White", tint = 0xee0000 },
+    { 11,9,0,12,16,2,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 12,9,0,16,11,4,texture = "opencomputers:White", tint = 0xee0000 },
+    { 0,11,0,3,14,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 3,11,0,5,14,4,texture = "opencomputers:White", tint = 0x444444 },
+    { 5,11,0,13,12,2,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 5,11,2,6,12,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 12,11,2,13,16,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 13,11,0,16,13,4,texture = "opencomputers:White", tint = 0xee0000 },
+    { 5,12,0,6,16,4,texture = "opencomputers:White", tint = 0x444444 },
+    { 12,12,0,13,16,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 6,13,0,7,16,2,texture = "opencomputers:White", tint = 0x444444 },
+    { 7,13,0,14,14,2,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 13,13,2,14,16,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 14,13,0,16,16,4,texture = "opencomputers:White", tint = 0xee0000 },
+    { 0,14,0,1,16,4,texture = "opencomputers:White", tint = 0x444444 },
+    { 1,14,0,4,15,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 4,14,0,6,16,4,texture = "opencomputers:White", tint = 0x444444 },
+    { 7,14,0,8,15,2,texture = "opencomputers:White", tint = 0x444444 },
+    { 13,14,0,14,16,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 1,15,0,2,16,4,texture = "opencomputers:White", tint = 0x444444 },
+    { 2,15,0,3,16,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 3,15,0,6,16,4,texture = "opencomputers:White", tint = 0x444444 },
+    { 7,15,0,14,16,2,texture = "opencomputers:White", tint = 0xeeeeee },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 6,0,14,12,2,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 6,2,14,7,3,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 7,2,14,10,4,16,texture = "opencomputers:White", tint = 0x444444 },
+    { 10,2,14,12,8,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 6,3,14,10,4,16,texture = "opencomputers:White", tint = 0x444444 },
+    { 6,4,14,9,5,16,texture = "opencomputers:White", tint = 0x444444 },
+    { 9,4,14,12,8,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 6,5,14,8,6,16,texture = "opencomputers:White", tint = 0x444444 },
+    { 8,5,14,12,8,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 6,6,14,7,7,16,texture = "opencomputers:White", tint = 0x444444 },
+    { 7,6,14,12,8,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 6,7,14,8,11,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 8,8,14,10,10,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 10,8,14,11,9,16,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 11,8,14,12,16,16,texture = "opencomputers:White", tint = 0xee0000 },
+    { 10,9,14,12,16,16,texture = "opencomputers:White", tint = 0xee0000 },
+    { 8,10,14,12,16,16,texture = "opencomputers:White", tint = 0xee0000 },
+    { 6,11,14,12,16,16,texture = "opencomputers:White", tint = 0xee0000 },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 0,0,0,5,2,4,texture = "opencomputers:White", tint = 0x444444 },
+    { 5,0,0,6,1,4,texture = "opencomputers:White", tint = 0x444444 },
+    { 6,0,0,14,2,2,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 12,0,2,14,4,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 14,0,0,16,14,4,texture = "opencomputers:White", tint = 0xee0000 },
+    { 5,1,0,14,2,2,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 0,2,0,1,3,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 1,2,0,6,4,4,texture = "opencomputers:White", tint = 0x444444 },
+    { 6,2,0,7,3,2,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 7,2,0,10,4,2,texture = "opencomputers:White", tint = 0x444444 },
+    { 10,2,0,14,4,2,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 0,3,0,2,8,4,texture = "opencomputers:White", tint = 0x444444 },
+    { 6,3,0,10,4,2,texture = "opencomputers:White", tint = 0x444444 },
+    { 2,4,0,3,5,4,texture = "opencomputers:White", tint = 0x444444 },
+    { 3,4,0,4,12,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 4,4,0,9,5,2,texture = "opencomputers:White", tint = 0x444444 },
+    { 4,4,2,6,5,4,texture = "opencomputers:White", tint = 0x444444 },
+    { 9,4,0,13,6,2,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 12,4,2,13,6,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 13,4,0,16,14,4,texture = "opencomputers:White", tint = 0xee0000 },
+    { 2,5,0,5,6,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 5,5,0,8,6,2,texture = "opencomputers:White", tint = 0x444444 },
+    { 5,5,2,6,6,4,texture = "opencomputers:White", tint = 0x444444 },
+    { 8,5,0,10,10,2,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 2,6,0,3,9,4,texture = "opencomputers:White", tint = 0x444444 },
+    { 4,6,0,6,12,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 6,6,0,7,7,2,texture = "opencomputers:White", tint = 0x444444 },
+    { 7,6,0,12,8,2,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 12,6,0,16,14,4,texture = "opencomputers:White", tint = 0xee0000 },
+    { 6,7,0,8,11,2,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 0,8,0,1,12,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 1,8,0,3,9,4,texture = "opencomputers:White", tint = 0x444444 },
+    { 10,8,0,11,9,2,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 11,8,0,16,14,2,texture = "opencomputers:White", tint = 0xee0000 },
+    { 1,9,0,6,12,4,texture = "opencomputers:White", tint = 0xeeeeee },
+    { 10,9,0,16,14,2,texture = "opencomputers:White", tint = 0xee0000 },
+    { 8,10,0,16,14,2,texture = "opencomputers:White", tint = 0xee0000 },
+    { 6,11,0,16,14,2,texture = "opencomputers:White", tint = 0xee0000 },
+    { 0,12,0,6,16,4,texture = "opencomputers:White", tint = 0xee0000 },
+    { 6,14,0,12,16,2,texture = "opencomputers:White", tint = 0xee0000 },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 0,0,0,6,2,4,texture = "opencomputers:White", tint = 0xee0000 },
+    { 0,2,0,2,4,4,texture = "opencomputers:White", tint = 0xee0000 },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 0,10,0,2,16,4,texture = "opencomputers:White", tint = 0xee0000 },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 0,0,0,2,16,4,texture = "opencomputers:White", tint = 0xee0000 },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+    { 0,0,0,2,14,4,texture = "opencomputers:White", tint = 0xee0000 },
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+  }
+},
+
+{
+  label = "Mein Land",
+  tooltip = ")))",
+  shapes = {
+  }
+}
